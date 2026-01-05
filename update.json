@@ -1,13 +1,13 @@
 {
-  "version": "1.0.1082",
-  "download_url": "https://github.com/adrielvargas-sytian/AuditMaster-Updates/releases/download/1.0.1082/AuditMaster-1.0.1082.zip",
+  "version": "1.0.1083",
+  "download_url": "https://github.com/adrielvargas-sytian/AuditMaster-Updates/releases/download/1.0.1083/AuditMaster-1.0.1083.zip",
   "download_folder": "https://github.com/adrielvargas-sytian/AuditMaster-Updates/releases/download/",
   "tested": "6.9",
   "requires": "6.0",
   "requires_php": "7.4",
-  "last_updated": "2026-01-02",
+  "last_updated": "2026-01-05",
   "sections": {
     "description": "AuditMaster helps you verify that your WordPress site is properly configured, stable, and ready for launch. It performs structured Pre‑launch and Post‑launch QA checks across site identity, homepage settings, favicon detection, project context, and server access. Each audit item includes clear indicators and explanations, making it easy for site owners, editors, and developers to understand what needs attention. Ideal for improving site quality, maintaining standards, and ensuring smooth deployments.",
-    "changelog": "..."
+    "changelog": "### Version 1.0.1083\n- Completed all Pre‑launch and Post‑launch QA items.\n- Implemented full settings management and QA item sorting.\n- Added dashboard with percentage indicators for QA progress.\n- Enabled exporting of checklists and credentials.\n- Introduced a settings popup before starting QA.\n- General bug fixes and stability improvements."
   }
 }
